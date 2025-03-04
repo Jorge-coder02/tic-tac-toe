@@ -1,5 +1,8 @@
 # Tic Tac Toe (React)
 
+# Enlace a la página del juego:
+https://tictactoebyjorge.netlify.app/
+
 ## Descripción
 
 Una implementación simple del clásico juego de **Tic Tac Toe** (Tres en raya) hecha con **React**. El juego permite a dos jugadores tomar turnos para colocar sus fichas (X o O) en una cuadrícula de 3x3 hasta que haya un ganador o empate. Al final del juego, se muestra un modal con el ganador.
